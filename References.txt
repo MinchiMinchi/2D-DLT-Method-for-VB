@@ -1,0 +1,28 @@
+Safaee-Rad, Reza,
+Functional human arm motion study with a new 3-D measurement system,
+University of Manitoba, (1987).
+
+
+https://mspace.lib.umanitoba.ca/items/88d8f458-98be-48b6-a889-63d17c210568
+
+
+----
+
+佐賀野　健，
+ＤＬＴ法を用いた新しい球技分析システムの開発とバレーボールへの適用，
+長岡技術科学大学，博士論文，（2015）．
+
+https://cir.nii.ac.jp/crid/1110845735152067968
+https://nagaokaut.repo.nii.ac.jp/record/228/files/z306.pdf
+
+
+----
+五十嵐　敦也，
+Yolo3を用いた選手の半自動追尾システムの開発，
+鶴岡工業高等専門学校，卒業研究，（2021）．
+
+
+----
+五十嵐　翔琉，
+TrackNetを用いたバレーボールのボール追尾の検討，
+鶴岡工業高等専門学校，卒業研究，（2022）．
